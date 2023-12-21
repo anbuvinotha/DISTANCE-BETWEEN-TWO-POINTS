@@ -22,7 +22,8 @@ distance=((x2-x1)**2+(y1-y2)**2)**(1/2)
 print("{:0.2f}".format(distance))
 
 ```
-#![output](distance_ss.png)## OUTPUT:
+## output:
+![output](distance_ss.png)
 
 
 ### RESULT:
